@@ -1,0 +1,16 @@
+#matrix {
+	width: 400px;
+	height: 400px;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	border: 1px solid black;
+}
+
+#matrix button {
+	border: 0;
+	position: absolute;
+	background-color: #000;
+	color: #00FF00;
+}
